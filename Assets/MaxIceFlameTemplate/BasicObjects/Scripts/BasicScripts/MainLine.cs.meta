@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: d6d80c8ffc2db71408655e11b593f118
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tail: {fileID: 1733875609686406, guid: defc085cd2207e04fba9f8227b541bb7, type: 3}
+  - die_effect: {fileID: 1104636635022044, guid: 81d85963503050c4baef4a1459d8a29b,
+      type: 3}
+  - die_sound: {fileID: 8300000, guid: 29bc4a6f9b0702e46ab57031e283efbe, type: 3}
+  - start_audio: {instanceID: 0}
+  - jump_effect: {fileID: 1051689116260032, guid: 64ebb2e36d0255345af37116706184f6,
+      type: 3}
+  - Other_Line: {instanceID: 0}
+  - PercentageOnUI: {instanceID: 0}
+  - OverTab: {instanceID: 0}
+  - ContinueTab: {instanceID: 0}
+  - Camera: {instanceID: 0}
+  - LineMaterial: {fileID: 2100000, guid: 4e5f808e8094c4747b8e705f4496bab8, type: 2}
+  - DiamondMaterial: {fileID: 2100000, guid: d9cd4460cbd0e354ba52f55a0414e29b, type: 2}
+  - LineBody: {instanceID: 0}
+  - LastLineBody: {instanceID: 0}
+  - Crown1: {instanceID: 0}
+  - Crown2: {instanceID: 0}
+  - Crown3: {instanceID: 0}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -683,7 +683,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: AURA_IN_PROJECT;AURA_IN_SCENEVIEW
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
